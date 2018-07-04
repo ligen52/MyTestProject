@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1067064872181",
+    "firebase_url": "https://lifehq-fcm.firebaseio.com",
+    "project_id": "lifehq-fcm",
+    "storage_bucket": "lifehq-fcm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067064872181:android:3b8505a82cadfa42",
+        "android_client_info": {
+          "package_name": "com.thoughtworks.gcmapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067064872181-no80rq9htn4sp0j18js300vdfbvr2hl6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thoughtworks.gcmapp",
+            "certificate_hash": "8e2c09ac1151fd1faa7a8d0624b608e78c0f4774"
+          }
+        },
+        {
+          "client_id": "1067064872181-k8hn2g7vvmc5atlakcqeltad06bfj7aj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1NTEfBQ1Ph4FHsh27uDJYAjjUVIQISyU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067064872181-k8hn2g7vvmc5atlakcqeltad06bfj7aj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
